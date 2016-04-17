@@ -1,0 +1,7 @@
+[package]
+name = "network"
+version = "0.1.0"
+authors = ["root"]
+
+[dependencies]
+mio = "0.5"
