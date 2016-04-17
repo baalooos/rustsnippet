@@ -1,0 +1,2 @@
+# rustsnippet
+Random Rust Code 
